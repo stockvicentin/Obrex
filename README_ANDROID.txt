@@ -22,3 +22,10 @@ INSTALAÇÃO
 IMPORTANTE
 Os dados e comprovantes são locais neste aparelho. O endereço HTTPS serve para entregar o aplicativo e atualizar sua versão; ele não transforma automaticamente os dados em nuvem.
 Faça backups periódicos pelo menu Backup.
+
+
+VERSÃO 2.2
+- Visualização de comprovantes com botões explícitos Abrir e Baixar.
+- PDF com opção de abrir no visualizador do celular.
+- Atualização do cache para evitar que o Android mantenha a versão antiga.
+- Os dados continuam no mesmo IndexedDB; não é necessário apagar dados ou reinstalar o app.
